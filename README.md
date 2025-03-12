@@ -12,7 +12,7 @@ A modern, user-friendly desktop application built with Python and Tkinter for tr
 
 ## Screenshots
 
-[Add screenshots of your application here]
+implemented later
 
 ## Requirements
 
@@ -25,7 +25,7 @@ A modern, user-friendly desktop application built with Python and Tkinter for tr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/personal-finance-tracker.git
+git clone https://github.com/ameer22l7555/personal-finance-tracker.git
 cd personal-finance-tracker
 ```
 
