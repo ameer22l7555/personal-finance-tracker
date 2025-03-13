@@ -9,10 +9,12 @@ A modern, user-friendly desktop application built with Python and Tkinter for tr
 - 🌙 **Modern Dark Theme**: Easy on the eyes with a professional look
 - 💹 **Real-time Updates**: See your balance changes with smooth animations
 - 📱 **Responsive Design**: Adapts to different window sizes
+- 💾 **Save & Load**: Save your financial data and load it later
+- 📤 **Import/Export**: Support for CSV import and export
 
 ## Screenshots
 
-implemented later
+[Add screenshots of your application here]
 
 ## Requirements
 
@@ -41,17 +43,40 @@ Run the application using:
 python main.py
 ```
 
+### Managing Transactions
+
+1. Enter a description, amount, and select the transaction type (Income/Expense)
+2. Click "Add Transaction" to record the transaction
+3. Use the search box to filter transactions
+4. View your total income, expenses, and net balance at the top
+
+### Saving and Loading Data
+
+The application allows you to save your financial data and load it later:
+
+- **Save Data**: Go to File > Save to save your current financial data to a JSON file
+- **Load Data**: Go to File > Load to load previously saved financial data
+- **Export to CSV**: Go to File > Export to CSV to export your transactions to a CSV file
+- **Import from CSV**: Go to File > Import from CSV to import transactions from a CSV file
+
 ## Features
 
 ### Transaction Management
 - Add new transactions with description, amount, and type (Income/Expense)
 - View transaction history in a sortable table
 - Real-time balance updates with animations
+- Search and filter transactions
 
 ### Financial Overview
 - View total income, expenses, and net balance
 - Interactive charts showing income vs expenses
 - Transaction distribution visualization
+
+### Data Persistence
+- Save financial data to JSON files
+- Load previously saved data
+- Export transactions to CSV format
+- Import transactions from CSV files
 
 ## Contributing
 
