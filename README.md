@@ -14,7 +14,7 @@ A modern, user-friendly desktop application built with Python and Tkinter for tr
 
 ## Screenshots
 
-[Add screenshots of your application here]
+Soon To be implemented
 
 ## Requirements
 
